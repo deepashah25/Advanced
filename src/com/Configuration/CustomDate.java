@@ -10,12 +10,11 @@ import java.util.Scanner;
 public class CustomDate {
 public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
-	/*
+	
 	 Date d1=new Date(); System.out.println(d1); 
 	 LocalDate l1=LocalDate.now();
 	 System.out.println(l1);
-	 */
-	//
+	
 	int i=Integer.parseInt("78");
 	
 	System.out.println("Enter your birthdate dd/mm/yyyy");
